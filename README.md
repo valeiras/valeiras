@@ -100,6 +100,13 @@ Born in Ourense, a small town in the North West of Spain, I have spent my adulth
 
 ## Experience
 
+|Position|Company/Institution|Years|
+|:-----:|:-----:|:-----:|
+|Developer of Mekanika|[Cabeza Patata](https://cabezapatata.com/)|2022-2023|
+|Live Sound Technician|Freelance|2020-2022|
+|Professional musician|Freelance|2017-2020|
+|PhD Student|[Institut de la Vision](https://www.institut-vision.org/en/) (Paris)|2013-2017|
+
 ## Publications
 
 - Reverter Valeiras, D., Clady, X., Ieng, S. H., & Benosman, R. B. (2018) [“Event-Based Line Fitting and Segment Detection using a Neuromorphic Visual Sensor”](https://ieeexplore.ieee.org/abstract/document/8463622). *IEEE Transactions on Neural Networks and Learning Systems.*
@@ -111,5 +118,5 @@ Born in Ourense, a small town in the North West of Spain, I have spent my adulth
 ## Other accounts
 You can find more information about me and my work and projects on some of my other accounts:
 
-|<img src="icons\icons8-javascript-48.png">|<img src="icons\icons8-css-48.png">|<img src="icons\icons8-html-5-48.png">|<img src="icons\icons8-c++-48.png">|<img src="icons\icons8-python-48.png">|<img src="icons\icons8-matlab-48.png">|
-|---|---|---|---|---|---|
+|[<img src="icons\icons8-twitter-48.png">](https://twitter.com/Valeiras)|[<img src="icons\icons8-instagram-48.png">](https://www.instagram.com/drvaleiras/)|[<img src="icons\icons8-facebook-48.png">](https://www.facebook.com/errepuntovaleiras)|
+|---|---|---|
