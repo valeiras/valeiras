@@ -27,7 +27,7 @@ You can find some of my latest work and an updated CV on my [personal gitHub web
       <td width="30%" align="center">
         Spanish
       </td>
-      <td width="70%" align="center">
+      <td width="70%" align="left">
         :star: :star: :star: :star: :star: 
       </td>
    </tr>
@@ -35,7 +35,7 @@ You can find some of my latest work and an updated CV on my [personal gitHub web
       <td width="30%" align="center">
         Galician
       </td>
-      <td width="70%" align="center">
+      <td width="70%" align="left">
         :star: :star: :star: :star: :star: 
       </td>
    </tr>
@@ -43,7 +43,7 @@ You can find some of my latest work and an updated CV on my [personal gitHub web
       <td width="30%" align="center">
         English
       </td>
-      <td width="70%" align="center">
+      <td width="70%" align="left">
         :star: :star: :star: :star: 
       </td>
    </tr>
@@ -51,7 +51,7 @@ You can find some of my latest work and an updated CV on my [personal gitHub web
       <td width="30%" align="center">
         French
       </td>
-      <td width="70%" align="center">
+      <td width="70%" align="left">
         :star: :star: :star: :star: 
       </td>
    </tr>
