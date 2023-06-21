@@ -1,16 +1,68 @@
-### Hi there 👋
+# David Reverter Valeiras
+***Doctor of Engineering / Front-End Developer***
+---
 
-<!--
-**valeiras/valeiras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can find some of my latest work and an updated CV on my [personal gitHub webpage](https://valeiras.github.io/)
 
-Here are some ideas to get you started:
+## SKILLS
+### Programming languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Know/Using:
+
+|<img src="icons\icons8-javascript-48.png">|<img src="icons\icons8-css-48.png">|<img src="icons\icons8-html-5-48.png">|<img src="icons\icons8-c++-48.png">|<img src="icons\icons8-python-48.png">|<img src="icons\icons8-matlab-48.png">|
+|---|---|---|---|---|---|
+
+- Learning:
+
+### Frameworks
+
+- Know/Using:
+- Learning
+
+### Human languages
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="30%" align="center">
+        Spanish
+      </td>
+      <td width="70%" align="center">
+        :star: :star: :star: :star: :star: 
+      </td>
+   </tr>
+   <tr valign="top">
+      <td width="30%" align="center">
+        Galician
+      </td>
+      <td width="70%" align="center">
+        :star: :star: :star: :star: :star: 
+      </td>
+   </tr>
+  <tr valign="top">
+      <td width="30%" align="center">
+        English
+      </td>
+      <td width="70%" align="center">
+        :star: :star: :star: :star: 
+      </td>
+   </tr>
+        <tr valign="top">
+      <td width="30%" align="center">
+        French
+      </td>
+      <td width="70%" align="center">
+        :star: :star: :star: :star: 
+      </td>
+   </tr>
+  </tbody>
+</table>
+
+## Education
+
+## Experience
+
+## Publications
+
+## Other accounts
+You can find more information about me and my work and projects on some of my other accounts:
