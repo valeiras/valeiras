@@ -18,7 +18,15 @@ Born in Ourense, a small town in the North West of Spain, I have spent my adulth
 ### Tools
 
 - Know/Using:
-- Learning
+
+|<img src="icons\icons8-git-48.png">|<img src="icons\icons8-jquery-50.png">|
+|---|---|
+
+- Learning:
+
+|<img src="icons\icons8-npm-48.png">|<img src="icons\icons8-node-js-48.png">|<img src="icons\icons8-react-48.png">|
+|---|---|---|
+  
 
 ### Human languages
 
@@ -118,5 +126,5 @@ Born in Ourense, a small town in the North West of Spain, I have spent my adulth
 ## Other accounts
 You can find more information about me and my work and projects on some of my other accounts:
 
-|[<img src="icons\icons8-twitter-48.png">](https://twitter.com/Valeiras)|[<img src="icons\icons8-instagram-48.png">](https://www.instagram.com/drvaleiras/)|[<img src="icons\icons8-facebook-48.png">](https://www.facebook.com/errepuntovaleiras)|
-|---|---|---|
+|[<img src="icons\icons8-linkedin-48.png">](https://www.linkedin.com/in/david-reverter-valeiras-b8772440/)|[<img src="icons\icons8-twitter-48.png">](https://twitter.com/Valeiras)|[<img src="icons\icons8-instagram-48.png">](https://www.instagram.com/drvaleiras/)|[<img src="icons\icons8-facebook-48.png">](https://www.facebook.com/errepuntovaleiras)|
+|---|---|---|---|
