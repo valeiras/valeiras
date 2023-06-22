@@ -4,7 +4,7 @@
 You can find some of my latest work and an updated CV on my [personal gitHub webpage](https://valeiras.github.io/)
 
 ## About
-After completing my PhD in Robotics and Computer Science, I introduced my love of music and sound into my practice. I'm interested in the technical aspect of sound as well as Live Performances and Creative Writing. But I see all of these as inextricably linked and also love the creative side of technology and programming. Lately, I have also been interested in front-end development and I have created a series of webpages.
+After completing my PhD in Robotics and Computer Science, I introduced my love of music and sound into my practice. I'm attracted by the technical aspect of sound and music, since I see all of these as inextricably linked and also love the creative side of technology and programming. I am involved in front-end development too, and have created a number of webpages.
 
 Born in Ourense, a small town in the North West of Spain, I have spent my adulthood travelling and living in different countries. I'm always open to new adventures and enjoy new challenges.
 
@@ -18,7 +18,15 @@ Born in Ourense, a small town in the North West of Spain, I have spent my adulth
 ### Tools
 
 - Know/Using:
-- Learning
+
+|<img src="icons\icons8-git-48.png">|<img src="icons\icons8-jquery-50.png">|
+|---|---|
+
+- Learning:
+
+|<img src="icons\icons8-npm-48.png">|<img src="icons\icons8-node-js-48.png">|<img src="icons\icons8-react-48.png">|
+|---|---|---|
+  
 
 ### Human languages
 
@@ -118,5 +126,5 @@ Born in Ourense, a small town in the North West of Spain, I have spent my adulth
 ## Other accounts
 You can find more information about me and my work and projects on some of my other accounts:
 
-|[<img src="icons\icons8-twitter-48.png">](https://twitter.com/Valeiras)|[<img src="icons\icons8-instagram-48.png">](https://www.instagram.com/drvaleiras/)|[<img src="icons\icons8-facebook-48.png">](https://www.facebook.com/errepuntovaleiras)|
-|---|---|---|
+|[<img src="icons\icons8-linkedin-48.png">](https://www.linkedin.com/in/david-reverter-valeiras-b8772440/)|[<img src="icons\icons8-twitter-48.png">](https://twitter.com/Valeiras)|[<img src="icons\icons8-instagram-48.png">](https://www.instagram.com/drvaleiras/)|[<img src="icons\icons8-facebook-48.png">](https://www.facebook.com/errepuntovaleiras)|
+|---|---|---|---|
