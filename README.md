@@ -4,7 +4,7 @@
 You can find some of my latest work and an updated CV on my [personal gitHub webpage](https://valeiras.github.io/)
 
 ## About
-After completing my PhD in Robotics and Computer Science, I introduced my love of music and sound into my practice. I'm interested in the technical aspect of sound as well as Live Performances and Creative Writing. But I see all of these as inextricably linked and also love the creative side of technology and programming. Lately, I have also been interested in front-end development and I have created a series of webpages.
+After completing my PhD in Robotics and Computer Science, I introduced my love of music and sound into my practice. I'm attracted by the technical aspect of sound and music, since I see all of these as inextricably linked and also love the creative side of technology and programming. I am involved in front-end development too, and have created a number of webpages.
 
 Born in Ourense, a small town in the North West of Spain, I have spent my adulthood travelling and living in different countries. I'm always open to new adventures and enjoy new challenges.
 
