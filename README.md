@@ -19,8 +19,8 @@ Born in Ourense, a small town in the North West of Spain, I have spent my adulth
 
 - Know/Using:
 
-|<img src="icons\icons8-git-48.png">|<img src="icons\icons8-jquery-50.png">|
-|---|---|
+|<img src="icons\icons8-git-48.png">|<img src="icons\icons8-jquery-50.png">|<img src="icons\icons8-arduino-48.png">|
+|---|---|---|
 
 - Learning:
 
