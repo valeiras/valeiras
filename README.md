@@ -1,32 +1,24 @@
 # David Reverter Valeiras
-**Doctor of Engineering - Front-End Developer**
+**Doctor of Engineering - Full-Stack Developer**
 
 You can find some of my latest work and an updated CV on my [personal gitHub webpage](https://valeiras.github.io/)
 
 ## About
-After completing my PhD in Robotics and Computer Science, I introduced my love of music and sound into my practice. I'm attracted by the technical aspect of sound and music, since I see all of these as inextricably linked and also love the creative side of technology and programming. I am involved in front-end development too, and have created a number of webpages.
+After completing my PhD in Robotics and Computer Science, I introduced my love of music and sound into my practice. I'm attracted by the technical aspect of sound and music, since I see all of these as inextricably linked and also love the creative side of technology and programming. In the last few years, I have specialized myself in web development, and worked as a full-stack engineer.
 
 Born in Ourense, a small town in the North West of Spain, I have spent my adulthood travelling and living in different countries. I'm always open to new adventures and enjoy new challenges.
 
 ## SKILLS
 ### Programming languages
 
-|<img src="icons\icons8-javascript-48.png">|<img src="icons\icons8-css-48.png">|<img src="icons\icons8-html-5-48.png">|<img src="icons\icons8-c++-48.png">|<img src="icons\icons8-python-48.png">|<img src="icons\icons8-matlab-48.png">|
-|---|---|---|---|---|---|
+|<img src="icons\icons8-javascript-48.png">|<img src="icons\icons8-c++-48.png">|<img src="icons\icons8-python-48.png">|<img src="icons\icons8-matlab-48.png">|
+|---|---|---|---|
 
 
 ### Tools
 
-- Know/Using:
-
-|<img src="icons\icons8-git-48.png">|<img src="icons\icons8-arduino-48.png">|<img src="icons\icons8-react-48.png">|
-|---|---|---|
-
-- Learning:
-
-|<img src="icons\icons8-npm-48.png">|<img src="icons\icons8-node-js-48.png">|
-|---|---|
-  
+|<img src="icons\icons8-git-48.png">|<img src="icons\icons8-arduino-48.png">|<img src="icons\icons8-react-48.png">|<img src="icons\icons8-node-js-48.png">|<img src="icons\icons8-npm-48.png">|
+|---|---|---|---|---|
 
 ### Human languages
 
@@ -110,6 +102,7 @@ Born in Ourense, a small town in the North West of Spain, I have spent my adulth
 
 |Position|Company/Institution|Years|
 |:-----:|:-----:|:-----:|
+|Full-stack developer|[Ennubo](https://www.ennubo.es/)|2023-2024|
 |Developer of Mekanika|[Cabeza Patata](https://cabezapatata.com/)|2022-2023|
 |Live Sound Technician|Freelance|2020-2022|
 |Professional musician|Freelance|2017-2020|
